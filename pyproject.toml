@@ -1,7 +1,7 @@
 [project]
 name = "google-imersao-a2"
 version = "0.1.0"
-description = "Imersão do Google e Alura Agentes de IA"
+description = "Imersão do Google e Alura Agentes de IA Aula 2"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = []
